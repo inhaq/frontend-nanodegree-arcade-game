@@ -1,5 +1,4 @@
-# frontend-nanodegree-arcade-game
-===============================
+# Frontend-nanodegree-arcade-game
 
 ## Functionality
 
